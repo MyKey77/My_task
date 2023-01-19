@@ -18,7 +18,7 @@ public class Main {
         System.out.println("Fu(t)arok listaja");
         System.out.println("Piz(z)ak listaja");
         System.out.println("Ren(d)elesek listaja");
-        System.out.println("uj (p)izza hozzáadása belemígítő feladat" );
+        System.out.println("Uj (p)izza hozzáadása belemígítő feladat" );
         System.out.println("(K)ilepes");
     }
 
